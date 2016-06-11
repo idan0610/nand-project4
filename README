@@ -1,0 +1,24 @@
+daph.kaplan, idan0610
+===============================================================================
+Dafna Kaplan, ID 204092613, dafna.kaplan@cs.huji.ac.il
+Idan Refaeli, ID 305681132, idan.refaeli@cs.huji.ac.il
+===============================================================================
+
+                           Project 4 - Machine Language Programming
+                           ----------------------------------------
+  
+
+Submitted Files
+---------------
+README 			- This file.
+mult.asm 		-  multiply two positive numbers
+fill.asm 		-  screen react to keyboard when pressed (black when
+					the user press)
+sort.asm 		-  sort an array of numbers using bubble sort
+divide.asm 		-  divide two positive numbers, ignoring the reminder
+
+REMARKS:
+-------
+multiply and divide have the assumption that the input numbers are
+positive.
+the sorting is in place and based on a simple bubble sort.
